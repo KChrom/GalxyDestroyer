@@ -13,30 +13,30 @@ TagManager:
   - UI
   - 
   - 
+  - Player
+  - Weapons
+  - Enemies
+  - PowerUps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Distant_Graphic_Effects
+  - Distant_Particles
+  - 
   - Logo
-  - Film
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BackGround
   m_SortingLayers:
   - name: Default
     uniqueID: 0
